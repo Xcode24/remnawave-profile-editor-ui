@@ -9,6 +9,14 @@ A modern React-based visual editor for Xray and Remnawave configurations.
 Designed to simplify creation, editing, validation, and visualization of complex Xray configurations without manually editing JSON files.
 
 ---
+## 🚀 Live Demo
+
+**Try it now — no installation required!**
+
+👉 **[https://remnawave-profile-editor-ui.vercel.app](https://remnawave-profile-editor-ui.vercel.app)**
+
+Open your browser, edit Xray/Remnawave configs visually, and export JSON instantly. Works everywhere.
+---
 
 ## Features
 
@@ -143,6 +151,14 @@ MIT License
 
 Проект предназначен для удобного создания, редактирования, проверки и визуализации конфигураций Xray без ручного редактирования JSON.
 
+---
+## 🚀 Демо онлайн
+
+**Попробуйте прямо сейчас — ничего устанавливать не нужно!**
+
+👉 **[https://remnawave-profile-editor-ui.vercel.app](https://remnawave-profile-editor-ui.vercel.app)**
+
+Откройте в браузере, визуально редактируйте конфиги Xray/Remnawave и экспортируйте JSON мгновенно. Работает везде.
 ---
 
 ## Возможности
